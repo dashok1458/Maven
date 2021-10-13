@@ -1,0 +1,39 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'F:/project/MyFirstMaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/project/MyFirstMaven/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MyFirstMaven 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'F:/project/MyFirstMaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MyFirstMaven 0.0.1-SNAPSHOT API'
+com.tcs.MyFirstMaven.MyFirstMaven
+'F:/project/MyFirstMaven/src/main/java/com/tcs/MyFirstMaven/MyFirstMaven/App.java'
+F:\project\MyFirstMaven\src\main\java = 1633952146971
+F:\project\MyFirstMaven\target\apidocs\allclasses-frame.html = 1634105744932
+F:\project\MyFirstMaven\target\apidocs\allclasses-noframe.html = 1634105744936
+F:\project\MyFirstMaven\target\apidocs\constant-values.html = 1634105744783
+F:\project\MyFirstMaven\target\apidocs\deprecated-list.html = 1634105744926
+F:\project\MyFirstMaven\target\apidocs\help-doc.html = 1634105744952
+F:\project\MyFirstMaven\target\apidocs\index-all.html = 1634105744914
+F:\project\MyFirstMaven\target\apidocs\index.html = 1634105744941
+F:\project\MyFirstMaven\target\apidocs\overview-tree.html = 1634105744900
+F:\project\MyFirstMaven\target\apidocs\package-list = 1634105744746
+F:\project\MyFirstMaven\target\apidocs\script.js = 1634105744962
+F:\project\MyFirstMaven\target\apidocs\stylesheet.css = 1634105744958
